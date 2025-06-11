@@ -1,0 +1,5 @@
+{
+  "miscellaneous": {
+    "set_language_fail": "{name}, that is not an available language. Use one of the following: {languages}.",
+  }
+}

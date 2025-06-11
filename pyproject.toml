@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "StarTradingBot"
+version = "2.0"
+description = "A Discord bot for multiplayer star-trading RPG."
+authors = ["MujyKun <mujy@irenebot.com>", "A-Phamfam <alextampham3000@gmail.com>"]
+classifiers = [
+        "Development Status :: 5 - Production/Stable",
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python",
+]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+aiohttp = "3.9.5"
+asyncpg = "0.25.0"
+python-dotenv = "0.20.0"
+black = "^22.8.0"
+pre-commit = "2.19.0"
+mypy = "0.961"
+disnake = "2.9.2"
+psutil = "^5.9.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

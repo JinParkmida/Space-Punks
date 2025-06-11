@@ -1,0 +1,8 @@
+disnake==2.9.2
+asyncpg==0.25.0
+python-dotenv==0.20.0
+black==22.12.0
+pre-commit==2.19.0
+mypy==0.961
+psutil==5.9.8
+aiohttp==3.9.5

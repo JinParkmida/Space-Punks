@@ -1,0 +1,14 @@
+{
+  "Miscellaneous": {
+    "8ball": {
+      "description": "Ask the 8ball a yes or no question.",
+      "example_image_url": null,
+      "syntax": "%8ball [question]",
+      "example_syntax": null,
+      "permissions_needed": null,
+      "aliases": [
+        "8"
+      ]
+    }
+  }
+}
